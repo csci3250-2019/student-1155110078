@@ -19,11 +19,11 @@ Course Checklist:
 - [ ] Quiz
 
 Invited talks that we should have attended in this course (Unless you have skipped them www):
-Course Code| Course Title  | Date   |	Venue
------------|-----------|-----------|-----------
-CSCI2100_A |Data Structures| 29/4/19|	U Gym
-ENGG2430_A |**P(Fail=0.99)** & Stats | 2/5/19	|	U Gym    
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Screenshot of Command Line:
 ![Image](https://github.com/csci3250-2019/student-1155110078/blob/master/command.png)
