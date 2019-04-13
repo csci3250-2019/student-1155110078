@@ -1,6 +1,6 @@
 # Project Milestone 2
 ## About Me
-Hello everyone. I am `**Sau Long Hei**`.
+Hello everyone. I am **`Sau Long Hei`**.
 I am a Computer Science student in CUHK.
 
 Programming languages that I know:
