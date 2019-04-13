@@ -32,4 +32,6 @@ Date | Speaker
 9/4 | IET
 
 Screenshot of Command Line:
-![Image](https://github.com/csci3250-2019/student-1155110078/blob/master/command.png)
+
+![Image](https://github.com/csci3250-2019/student-1155110078/blob/master/command1.png)
+![Image](https://github.com/csci3250-2019/student-1155110078/blob/master/command2.png)
