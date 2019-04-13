@@ -19,16 +19,11 @@ Course Checklist:
 - [ ] Quiz
 
 Invited talks that we should have attended in this course (Unless you have skipped them www):
- Date   | Speaker  |
------------|-----------|
-15/1/2019 |  Data Sci. rep.
-22/1/2019 |  Charles Mok
-19/2/2019 | Vendor rep.
-5/3/2019 | FinTech rep.
-12/3/2019 | OGCIO
-19/3/2019 | HKIX
-9/4/2019 | Corp. rep.
-9/4/2019 | IET
+Course Code| Course Title  | Date   |	Venue
+-----------|-----------|-----------|-----------
+CSCI2100_A |Data Structures| 29/4/19|	U Gym
+ENGG2430_A |**P(Fail=0.99)** & Stats | 2/5/19	|	U Gym    
+
 
 Screenshot of Command Line:
 ![Image](https://github.com/csci3250-2019/student-1155110078/blob/master/command.png)
